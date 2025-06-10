@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "1",
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Computer Style Sheets", "isCorrect": false },
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Creative Style Sheets", "isCorrect": false },
+      { "text": "Colorful Style Sheets", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "Which company developed React?",
+    "answers": [
+      { "text": "Google", "isCorrect": false },
+      { "text": "Apple", "isCorrect": false },
+      { "text": "Facebook (Meta)", "isCorrect": true },
+      { "text": "Microsoft", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "3",
+    "question": "What is the correct HTML tag for the largest heading?",
+    "answers": [
+      { "text": "<h6>", "isCorrect": false },
+      { "text": "<h1>", "isCorrect": true },
+      { "text": "<heading>", "isCorrect": false },
+      { "text": "<head>", "isCorrect": false }
+    ]
+  }
+]

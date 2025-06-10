@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Computer Style Sheets", "isCorrect": false },
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Creative Style Sheets", "isCorrect": false },
+      { "text": "Colorful Style Sheets", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which company developed React?",
+    "answers": [
+      { "text": "Google", "isCorrect": false },
+      { "text": "Apple", "isCorrect": false },
+      { "text": "Facebook (Meta)", "isCorrect": true },
+      { "text": "Microsoft", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the correct HTML tag for the largest heading?",
+    "answers": [
+      { "text": "<h6>", "isCorrect": false },
+      { "text": "<h1>", "isCorrect": true },
+      { "text": "<heading>", "isCorrect": false },
+      { "text": "<head>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In JavaScript, which method removes the last element from an array?",
+    "answers": [
+      { "text": "pop()", "isCorrect": true },
+      { "text": "push()", "isCorrect": false },
+      { "text": "shift()", "isCorrect": false },
+      { "text": "slice()", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does SQL stand for?",
+    "answers": [
+      { "text": "Stylish Query Language", "isCorrect": false },
+      { "text": "Structured Query Language", "isCorrect": true },
+      { "text": "Simple Query Language", "isCorrect": false },
+      { "text": "Sequential Query Language", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which Git command creates a new branch?",
+    "answers": [
+      { "text": "git checkout -b", "isCorrect": true },
+      { "text": "git branch new", "isCorrect": false },
+      { "text": "git create branch", "isCorrect": false },
+      { "text": "git new branch", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What port does HTTP typically use?",
+    "answers": [
+      { "text": "443", "isCorrect": false },
+      { "text": "80", "isCorrect": true },
+      { "text": "8080", "isCorrect": false },
+      { "text": "3000", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of these is NOT a JavaScript data type?",
+    "answers": [
+      { "text": "Number", "isCorrect": false },
+      { "text": "String", "isCorrect": false },
+      { "text": "Boolean", "isCorrect": false },
+      { "text": "Integer", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What does the 'npm' command stand for?",
+    "answers": [
+      { "text": "Node Package Manager", "isCorrect": true },
+      { "text": "New Project Manager", "isCorrect": false },
+      { "text": "Node Program Manager", "isCorrect": false },
+      { "text": "Network Package Manager", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In React, what Hook is used to manage state?",
+    "answers": [
+      { "text": "useEffect", "isCorrect": false },
+      { "text": "useState", "isCorrect": true },
+      { "text": "useContext", "isCorrect": false },
+      { "text": "useReducer", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTTP method is used to update a resource?",
+    "answers": [
+      { "text": "GET", "isCorrect": false },
+      { "text": "POST", "isCorrect": false },
+      { "text": "PUT", "isCorrect": true },
+      { "text": "DELETE", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the time complexity of accessing an array element by index?",
+    "answers": [
+      { "text": "O(n)", "isCorrect": false },
+      { "text": "O(1)", "isCorrect": true },
+      { "text": "O(log n)", "isCorrect": false },
+      { "text": "O(n²)", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which CSS property controls the text size?",
+    "answers": [
+      { "text": "text-size", "isCorrect": false },
+      { "text": "font-style", "isCorrect": false },
+      { "text": "font-size", "isCorrect": true },
+      { "text": "text-style", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": [
+      { "text": "Application Programming Interface", "isCorrect": true },
+      { "text": "Advanced Programming Interface", "isCorrect": false },
+      { "text": "Application Process Integration", "isCorrect": false },
+      { "text": "Automated Programming Interface", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which MongoDB method inserts multiple documents?",
+    "answers": [
+      { "text": "insertOne()", "isCorrect": false },
+      { "text": "insertMany()", "isCorrect": true },
+      { "text": "createMany()", "isCorrect": false },
+      { "text": "addMany()", "isCorrect": false }
+    ]
+  }
+]
